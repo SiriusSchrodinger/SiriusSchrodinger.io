@@ -17,7 +17,11 @@ export default function topbar() {
                     <li className="topListItem">
                         <a className="anchorItem" href="#anchor2">PERSONAL</a>
                     </li>
-                    <li className="topListItem">CV</li>
+                    <li className="topListItem">
+                        <a className="tophyperlink" href="https://drive.google.com/file/d/1srSC0vlCEy7VGtShic4FDn6Vggh7Ngrf/view?usp=sharing">
+                            CV
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div className="topRight">

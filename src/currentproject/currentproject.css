@@ -3,7 +3,6 @@
     margin: 20px 25px 40px 25px;
     width: 600px;
     height: 500px;
-    cursor: pointer;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -27,4 +26,9 @@
     width: 86%;
     font-size: large;
     letter-spacing: 1px;
+}
+
+.currentProjectAbstract {
+    justify-content: center;
+    align-items: center;
 }

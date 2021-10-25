@@ -5,6 +5,7 @@ import PastProject2 from "../../pastproject/PastProject2"
 import PastProject3 from "../../pastproject/PastProject3"
 import Overeality from "../../overeality/Overeality"
 import "./home.css"
+import Personal from "../../personal/Personal"
 
 export default function Home() {
     return (
@@ -29,8 +30,8 @@ export default function Home() {
                 <PastProject3 />
             </div>
             <div id="anchor2"></div>
-            <div className="work">
-                <Overeality />
+            <div className="personal">
+                <Personal />
             </div>
         </div>
         </>
