@@ -1,4 +1,26 @@
+.personal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .personalTitle {
     font-size: xx-large;
     letter-spacing: 3px;
+}
+
+.personalContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.personalText {
+    width: 86%;
+    font-size: large;
+    letter-spacing: 1px;
+    margin-top: 30px;
 }
