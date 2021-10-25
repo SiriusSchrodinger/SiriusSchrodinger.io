@@ -21,7 +21,8 @@
 
 .topRight {
     flex: 8;
-    background-color: orange;
+    display: flex;
+    flex-direction: row;
 }
 
 .topCenter {
@@ -56,4 +57,16 @@
 
 .anchorItem:hover {
     color: #4290f7;
+}
+
+.linkedin {
+    margin-top: 8px;
+    cursor: pointer;
+    margin-left: 500px;
+}
+
+.github {
+    margin-top: 6px;
+    cursor: pointer;
+    margin-left: 10px;
 }

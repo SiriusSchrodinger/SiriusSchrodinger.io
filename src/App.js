@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <TopBar />
+      <div id="anchor0"></div>
       <Header />
       <Home />
     </>
