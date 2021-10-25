@@ -1,0 +1,30 @@
+.currentProject {
+    background-color: rgb(241, 240, 240);
+    margin: 20px 25px 40px 25px;
+    width: 600px;
+    height: 500px;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11),
+    0 5px 15px 0 rgba(0,0,0,0.08);
+    transition: border-left 300ms ease-in-out, padding-left 300ms ease-in-out;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.currentProject:hover {
+    padding-top: 0.5rem;
+    border-top: 0.5rem solid #4290f7;
+}
+
+.currentProjectTitle {
+    font-size: x-large;
+    margin: 20px;
+}
+.currentProjectAbstract {
+    width: 86%;
+    font-size: large;
+    letter-spacing: 1px;
+}
