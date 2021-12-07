@@ -1,4 +1,4 @@
-.publication {
+.pub {
     margin-bottom: 40px;
     margin-left: 200px;
     margin-right: 200px;
@@ -8,15 +8,20 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.publicationTitle {
+.pubTitle {
     font-size: x-large;
     margin: 10px;
     letter-spacing: 1px;
 }
 
-.publicationAbstact {
+.pubAbstact {
     font-size: large;
     margin-left: 10px;
     margin-right: 10px;
     letter-spacing: 1px;
+}
+
+.pubHref, .pubHref:visited {
+    text-decoration: none;
+    color: #4290f7;
 }
