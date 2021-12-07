@@ -1,0 +1,22 @@
+.publication {
+    margin-bottom: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.publicationTitle {
+    font-size: x-large;
+    margin: 10px;
+    letter-spacing: 1px;
+}
+
+.publicationAbstact {
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+    letter-spacing: 1px;
+}
