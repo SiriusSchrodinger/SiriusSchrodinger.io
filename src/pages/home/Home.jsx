@@ -4,6 +4,7 @@ import PastProject1 from "../../pastproject/PastProject1"
 import PastProject2 from "../../pastproject/PastProject2"
 import PastProject3 from "../../pastproject/PastProject3"
 import Overeality from "../../overeality/Overeality"
+import Publication from "../../publication/Publication"
 import "./home.css"
 import Personal from "../../personal/Personal"
 
@@ -30,6 +31,13 @@ export default function Home() {
                 <PastProject3 />
             </div>
             <div id="anchor2"></div>
+            <div className="publication">
+            <div className="publicationTitle">
+                Publications
+            </div>
+                <Publication />
+            </div>
+            <div id="anchor3"></div>
             <div className="personal">
                 <Personal />
             </div>
