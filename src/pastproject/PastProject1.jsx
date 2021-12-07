@@ -4,7 +4,7 @@ export default function PastProjects() {
     return (
         <>
         <div className="pastProject">
-            <div className="pastProjectTitle">“Y-slicing” Model for Biased Data in ML</div>
+            <div className="pastProjectTitle">Sliced Sampling Method for Imbalanced Data</div>
             <div className="pastProjectAbstact">
                 Significantly biased datasets have always been a problem for 
                 real-world applications of ML algorithms.
