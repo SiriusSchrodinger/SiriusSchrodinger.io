@@ -18,9 +18,8 @@ export default function Header() {
                     <p>
                         I am also a co-founder and the tech lead of a blockchain startup company, 
                             <a className="hyperlink" href="https://drive.google.com/file/d/1YqcnEGLkNY99Frf4flXBs-i2Q-h6kGiD/view?usp=sharing" target="_blank"> Overeality Labs</a>.
-                        We are advised by Turing Award Winners 
-                         <a className="hyperlink" href="https://amturing.acm.org/award_winners/diffie_8371646.cfm" target="_blank"> Dr. Whitfield Diffie </a> 
-                         and<a className="hyperlink" href="https://ee.stanford.edu/~hellman/" target="_blank"> Dr. Martin Hellman </a>  
+                        We are advised by Turing Award winner 
+                            <a className="hyperlink" href="https://ee.stanford.edu/~hellman/" target="_blank"> Dr. Martin Hellman </a>  
                         and aim to deploy the best technology to the communities in crypto culture. 
                     </p>
                     <br />
