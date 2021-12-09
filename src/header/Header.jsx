@@ -8,11 +8,11 @@ export default function Header() {
                 <h1 className="headerTitle">About Me</h1>
                 <div className="headerParagraph">
                     <p>
-                        I am a post-undergraduate student researcher in the
+                        I am a post-undergraduate AI researcher in the
                          <a className="hyperlink" href="https://www.kiddlab.com/about" target="_blank"> Kidd Lab</a> at UC Berkeley, 
                     advised by Professor Celeste Kidd. My current research focuses 
                     on developing computational models of social interactions and information processing. 
-                    I am particularly interested in the formation of social concepts.
+                    I am particularly interested in the cognitive model of the formation of social concepts.
                     </p>
                     <br />
                     <p>
@@ -25,8 +25,7 @@ export default function Header() {
                     <br />
                     <p>
                         I graduated from UC Berkeley with a B.S. in Computer Science, Psychology and Physics.
-                        During my undergraduate days, 
-                        I was previously with 
+                        At Berkeley, I was previously with 
                         <a className="hyperlink" href="http://www.icsi.berkeley.edu/icsi/"> ICSI</a> and 
                         <a className="hyperlink" href="https://vision.berkeley.edu/"> Berkeley Vision Group </a>
                          and worked in the lab of 
